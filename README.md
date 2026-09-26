@@ -4,7 +4,7 @@
 
 Seok-Young Kim, Abdelrahman Elskhawy, Taewook Ha, Dooyoung Kim, Eunjae Shin, Benjamin Busam, Woontack Woo
 
-[Project Page](https://deworldsg2026.github.io)
+[Project Page](https://deworldsg2026.github.io) | [Paper](https://arxiv.org/abs/2607.00889)
 
 </div>
 
