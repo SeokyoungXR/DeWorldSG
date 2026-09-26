@@ -8,7 +8,7 @@ Seok-Young Kim, Abdelrahman Elskhawy, Taewook Ha, Dooyoung Kim, Eunjae Shin, Ben
 
 </div>
 
-<p align="center"><img width="1000" alt="DeWorldSG overview" src="DepWorldSG.png"></p>
+<p align="center"><img width="1000" alt="DeWorldSG overview" src="deworldsg_fig.png"></p>
 
 DeWorldSG generates spatio-temporally coherent 3D semantic scene graphs from RGB-D sequences.
 Each object is lifted to a depth-aware 3D Gaussian estimated from SAM 3 instance masks and Dual-Domain Depth Refinement (DDR),
