@@ -1,0 +1,27 @@
+3RScan.py
+3RScan
+Datasets
+weights
+logs
+slurm_script
+.venv
+**/visualization/
+**/vis
+**/vis_replica/
+**/video
+**/__pycache__
+**/debug
+**/temp
+**/output
+test
+
+# Large files
+*.pth
+*.ckpt
+*.pt
+*.safetensors
+*.bin
+
+# SAM checkpoints
+sam2/
+sam3/checkpoints/
